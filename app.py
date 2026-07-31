@@ -70,7 +70,7 @@ st.markdown(
 )
 
 st.markdown(
-    '<div class="hero"><h1>📊 AI Financial Health Analyzer</h1>'
+    '<div class="hero"><h1>🧮 AI Analyser Tool</h1>'
     "<p>Upload a company's annual report (PDF) and get an automated financial "
     "health analysis: key figures, ratios, and AI-written commentary — all "
     "traceable back to the numbers actually found in the document.</p></div>",
