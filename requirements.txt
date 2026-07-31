@@ -1,5 +1,0 @@
-streamlit
-anthropic
-pdfplumber
-pandas
-requests
