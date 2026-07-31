@@ -53,7 +53,7 @@ from ratio_engine import (
 )
 from generate_insights import generate_insights
 
-st.set_page_config(page_title="AI Financial Health Analyzer", page_icon="📊", layout="wide")
+st.set_page_config(page_title="AI Analyser Tool", page_icon="🧮", layout="wide")
 
 # ---------------------------------------------------------------------------
 # Look and feel - a light, card-based theme meant to read as "analyst
