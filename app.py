@@ -67,7 +67,7 @@ from ratio_engine import (
 from generate_insights import generate_insights
 from edgar_lookup import fetch_annual_history
 
-st.set_page_config(page_title="AI Financial Health Analyzer", page_icon="📊", layout="wide")
+st.set_page_config(page_title="AI Analyser Tool", page_icon="🧮", layout="wide")
 
 st.markdown(
     """
@@ -96,7 +96,7 @@ st.markdown(
 )
 
 st.markdown(
-    '<div class="hero"><h1>📊 AI Financial Health Analyzer</h1>'
+    '<div class="hero"><h1>🧮 AI Analyser Tool</h1>'
     "<p>Upload a company's annual report (PDF) and get an automated financial "
     "health analysis: key figures, ratios, and AI-written commentary — all "
     "traceable back to the numbers actually found in the document.</p></div>",
